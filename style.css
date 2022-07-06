@@ -31,6 +31,13 @@ section {
     width: 80%;
 }
 
+.dream-bg {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 150px;
+}
+
 .button {
     text-decoration: none;
     color: white;
@@ -45,4 +52,8 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.half-width p {
+    max-width: 80%;
 }
